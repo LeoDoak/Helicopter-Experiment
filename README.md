@@ -8,8 +8,13 @@ Project Completed for **Dr. Lee's Spring 2024 STT 411 Analaysis of Variance clas
 *  Darina Aynaeva
 
 ## Experiment Setup: 
+* Two main factors and One blocking variable
+	* Main Factors: paperclip size and helicopter size
+	* Blocking variable: Person (making and dropping the helicopter)
 
 ## Tests Completed: 
+
+
 
 ## Conclusions Made: 
 * From looking at the data it appears that Helicopter Size was the only significnat factor in determining helicopter descent time. Paperclip size and person who made helicopter did not seem to impact helicopter air time. 
