@@ -1,6 +1,6 @@
 # Paper Helicopter Experiment 
 
-Project Completed for **Dr. Wang's Spring 2024 STT 411 Analaysis of Variance class** 
+Project Completed for **Dr. Lee's Spring 2024 STT 411 Analaysis of Variance class** 
 
 ## Group Members: 
 *  Leo Doak 
