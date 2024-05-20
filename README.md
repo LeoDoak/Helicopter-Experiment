@@ -36,9 +36,9 @@ Project Completed for **Dr. Lee's Spring 2024 STT 411 Analaysis of Variance clas
 * Could have had one person drop the helicopters and another person handle the time for more consistent results
 
 ## Files in Respository: 
-*  CSV file  - data from Experiments 
-*  R code file  - Code for analyzing and testing 
-*  txt file  - Report that explains the experiment setup and draws conclusions between factors
+*  CSV file  - data from trials 
+*  R code file  - Code for analyzing and testing the data 
+*  txt file  - Report that explains the experiment setup and draws conclusions between factors. Goes into more depth then the sections on this readme. 
 
 ### Presentation: 
-* Presentated our conclusions to the class and recieved positive feedback and an A on the project as a whole. 
+* Presentated our conclusions to the class and recieved positive feedback and a grade of an A on the project. 
